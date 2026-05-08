@@ -1,0 +1,19 @@
+---
+title: "Obligo giełdowe wróci w lipcu 2026 i obejmie OZE. Branża ostrzega, że  — Zachodniopomorskie"
+date: 2026-05-08
+description: "W Szczecinie i Zachodniopomorskim: Od lipca 2026 roku ma wrócić obligo giełdowe — obowiązek sprzedaży energii przez giełdę lub platform"
+tags: ["OZE", "Szczecin", "Zachodniopomorskie", "energia odnawialna"]
+---
+
+# Obligo giełdowe wróci w lipcu 2026 i obejmie OZE. Branża ostrzega, że  — Zachodniopomorskie
+
+Od lipca 2026 roku ma wrócić obligo giełdowe — obowiązek sprzedaży energii przez giełdę lub platformy zatwierdzone przez regulatora. Tym razem regulacja ma objąć instalacje odnawialnych źródeł energii
+
+W Szczecinie i Zachodniopomorskim temat ten jest szczegolnie aktualny. Transformacja energetyczna
+w regionie Zachodniopomorskie nabiera tempa — lokalne inwestycje OZE, klastry energii
+i rosnaca liczba prosumentow zmieniaja krajobraz energetyczny.
+
+Pelna analiza na: https://ecoaudyt.app/blog/obligo-gieldowe-oze-lipiec-2026-10mw
+
+Sprawdz mozliwosci dofinansowania OZE dla swojego domu w Zachodniopomorskie: https://ecoaudyt.app
+
