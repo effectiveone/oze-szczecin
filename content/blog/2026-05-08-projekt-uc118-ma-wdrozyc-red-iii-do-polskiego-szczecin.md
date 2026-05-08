@@ -1,29 +1,22 @@
 ---
-title: "Projekt UC118 ma wdrożyć RED III do polskiego prawa. Najciekawsze są nie hasła o — Zachodniopomorskie"
+title: "Projekt UC118 ma wdrożyć RED III do polskiego prawa. Najciekawsze są n - Zachodniopomorskie"
 date: 2026-05-08
-description: "Lokalna analiza dla regionu Zachodniopomorskie: Projekt UC118 ma przełożyć unijną dyrektywę RED III na praktykę polskiego rynku energii. Sam skrót i legislacyjna techni"
-tags: ["OZE", "Szczecin", "Zachodniopomorskie", "energia odnawialna"]
+description: "W Szczecinie i Zachodniopomorskim: Projekt UC118 ma przełożyć unijną dyrektywę RED III na praktykę polskiego rynku energii. Sam skrót i legislacy"
+tags: ["OZE", "Szczecin", "Zachodniopomorskie", "energia odnawialna", "fotowoltaika"]
 ---
 
-# Projekt UC118 ma wdrożyć RED III do polskiego prawa. Najciekawsze są nie hasła o — Zachodniopomorskie
+# Projekt UC118 ma wdrożyć RED III do polskiego prawa. Najciekawsze są n - Zachodniopomorskie
 
 ← Powrót do bloga Projekt UC118 ma wdrożyć RED III do polskiego prawa. Najciekawsze są nie hasła o przyspieszeniu, tylko nowe reguły dla magazynów i sieci 08.05.2026
 
-Temat ten ma szczególne znaczenie dla mieszkańców Zachodniopomorskie. Inwestycje w odnawialne źródła energii 
-w okolicach Szczecin rozwijają się dynamicznie, a lokalne firmy i samorządy coraz chętniej sięgają 
-po dostępne dofinansowania.
+W Szczecinie i Zachodniopomorskim temat ten nabiera szczegolnego znaczenia. Lokalni inwestorzy, gminy i mieszkancy
+aktywnie poszukuja mozliwosci przejscia na odnawialne zrodla energii.
 
-W regionie Zachodniopomorskie obserwujemy rosnące zainteresowanie prosumencką produkcją energii. 
-Instalacje fotowoltaiczne, pompy ciepła oraz systemy magazynowania energii BESS stają się 
-standardem w nowych inwestycjach budowlanych.
+Pelna analiza ekspercka dostepna na: ecoaudyt.app/blog/uc118-red-iii-polska-magazyny-sieci-nowe-reguly-2026
 
-Więcej szczegółów i pełna analiza dostępna na [ecoaudyt.app](https://ecoaudyt.app/blog/uc118-red-iii-polska-magazyny-sieci-nowe-reguly-2026).
+Skorzystaj z bezplatnego audytu energetycznego i sprawdz ile mozesz zaoszczedzic
+w swoim domu lub firmie w regionie Zachodniopomorskie. Doradcy ecoaudyt.app pomoga dobrac
+optymalne rozwiazanie OZE dla Twojej lokalizacji.
 
-## Regionalny kontekst
+Wiecej na: https://ecoaudyt.app
 
-W Szczecin i okolicach dostępne są liczne programy wsparcia finansowego:
-- **Czyste Powietrze** — do 66 000 zł na wymianę ogrzewania i OZE
-- **Moje Ciepło** — do 21 000 zł na pompy ciepła
-- Lokalne programy gminne — dodatkowe 5 000–15 000 zł
-
-Bezpłatny audyt energetyczny dla mieszkańców Zachodniopomorskie: [https://ecoaudyt.app](https://ecoaudyt.app)
